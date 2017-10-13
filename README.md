@@ -1,6 +1,6 @@
-# Awesome Imrovements [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Improvements [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome tools (online or not).
+> A curated list of awesome improvements that top-notch sites/services might find useful to adopt.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -9,8 +9,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 
-## Generators
-* [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables).
+## GitHub
+* Create new repo based on an already existing one.
+* Bookmark a favorite commit (same functionality as "My Stars")
 
-## Browser Extensions
-* [Invite All Friends on Facebook](https://chrome.google.com/webstore/detail/invite-all-friends-on-fac/inmmhkeajgflmokoaaoadgkhhmibjbpj) - Mohammed N. El-Madhoun
+
+## Meetup
+* Adopt markdown (it will then be more handy to edit a meetup's description)
+
+## Facebook
+* Rate seller (after having bought something)
