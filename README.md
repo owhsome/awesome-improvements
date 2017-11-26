@@ -16,6 +16,7 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 ## Meetup
 * Adopt markdown (it will then be more handy to edit a meetup's description)
+* Mail scheduling (for organizers)
 
 ## Facebook
 * Rate seller (after having bought something)
