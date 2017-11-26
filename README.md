@@ -17,6 +17,7 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 ## Meetup
 * Adopt markdown (it will then be more handy to edit a meetup's description)
 * Mail scheduling (for organizers)
+* Drag 'n drop functionality for rearranging sponsors ordering (it isn't handy anymore if your group has lots of sponsors)
 
 ## Facebook
 * Rate seller (after having bought something)
