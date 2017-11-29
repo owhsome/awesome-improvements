@@ -12,7 +12,7 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 ## GitHub
 * Create new repo based on an already existing one.
 * Bookmark a favorite commit (same functionality as "My Stars")
-* [Payment features for contributors](https://twitter.com/brunoborges/status/936004624867246080) - Bruno Borges
+* [Payment features for maintainers](https://twitter.com/brunoborges/status/936019401165307904) - Bruno Borges
 
 
 ## Meetup
