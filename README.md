@@ -20,6 +20,7 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 * Mail scheduling (for organizers)
 * Drag 'n drop functionality for rearranging sponsors ordering (it isn't handy anymore if your group has lots of sponsors)
 * As an organizer, I would like to be able to announce a meetup for which I have changed the date. Example: weather conditions might not allow us at some point to have a meetup, but instead of cancelling the meetup, I would like to just edit/empty its date and be able to reannounce it. Currently, such a feature is not available. Yo ucan only edit the meetup's date, but not able to announce the meetup again.
+* [Send photos via Meetup messages](https://twitter.com/meetup_support/status/997151956530417664)
 
 ## Facebook
 * Rate seller (after having bought something)
